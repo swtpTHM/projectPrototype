@@ -1,0 +1,4 @@
+->Hier Bitte dokumentieren, was gemacht und von wem etwas gemacht wurde.<-
+
+27.11 Andi
+Struktur und Aufgabe erstellt.

@@ -1,0 +1,15 @@
+Aufgabe bis 2.12.
+
+-> Erstellen einer Datenbank mit Nuternamen und passwort und ggf account-id
+-> Erstellen eines Log-In Systems, mit Unterstützung des ausgewählten PHP-Frameworks
+-> Anhand von Loginformation die Bereiche auf der Seite ein/ausblenden
+-> Ggf. wird eine Session Datenbank mit Zeitstempel benötigt.
+-> Möglichst Prozesse wie das Verbinden mit der Datenbank auslagern in eine PHP Datei und diese einfach in die HTML
+    einbinden.
+
+    PHP : Marvin, Flo
+    SQL : Ali, Stef
+
+-> GIT: Neuen Branch erstellen, in diesem Branch arbeiten, Einen Tag erstellen von Main zB. v0.0
+    anschließend mit merge master und feature Zweig zusammenführen.
+
